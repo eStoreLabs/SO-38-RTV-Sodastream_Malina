@@ -193,7 +193,7 @@
 }
 #es-rc #es-rc-content .es-change__single-img3 {
   width: 360px;
-  margin-left: 60px;
+  margin-left: 35px;
 }
 #es-rc #es-rc-content .es-change__wrapper .es-change__single-dot {
   width: 20px;
@@ -377,7 +377,7 @@
 #es-rc #es-rc-content .es-bottle__wrapper .es-bottle__single-third-image {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: -40px;
   width: 75px;
 }
 #es-rc #es-rc-content .es-bottle__wrapper .es-bottle__single:first-child,
@@ -528,7 +528,7 @@
   border: 1px solid #13294b;
   border-radius: 50%;
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: -20%;
   right: 0;
   width: 140%;
@@ -692,7 +692,7 @@
   }
   #es-rc #es-rc-content .es-kv {
     padding-left: 60px;
-    margin-bottom: 40px;
+    margin-bottom: 90px;
   }
   #es-rc #es-rc-content .es-kv__logo {
     margin-left: unset;
@@ -1051,10 +1051,10 @@
     width: 360px;
   }
   #es-rc #es-rc-content .es-change__single2:first-child {
-    margin: -10px -32px !important;
+    margin: -10px -25px !important;
   }
   #es-rc #es-rc-content .es-change__single2:nth-child(4) {
-    margin: 20px -3px !important;
+    margin: 20px 5px !important;
   }
   #es-rc #es-rc-content .es-change__leaf2 {
     display: block;
@@ -1343,7 +1343,7 @@
   #es-rc
     #es-rc-content
     .es-adventure__wrapper
-    .es-adventure__top-bottom__single:nth-child(2) {
+    .es-adventure__bottom-row__single:nth-child(2) {
     gap: 0px;
   }
   #es-rc
@@ -1490,10 +1490,10 @@
     font-size: 14px;
   }
   #es-rc #es-rc-content .es-change__single2:first-child {
-    margin: -10px -45px !important;
+    margin: -10px -15px !important;
   }
   #es-rc #es-rc-content .es-change__single2:nth-child(4) {
-    margin: 20px -23px !important;
+    margin: 20px -5px !important;
   }
   #es-rc #es-rc-content .es-change__wrapper .es-change__single:nth-child(4) {
     margin-left: -40px;
