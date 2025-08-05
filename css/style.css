@@ -107,7 +107,7 @@
   font-weight: 100;
   font-size: 30px;
   text-transform: uppercase;
-  color: #13294b;
+  color: #13294b !important;
 }
 #es-rc #es-rc-content .es-kv__wrapper .es-kv__left .es-kv__p {
   margin-top: 30px;
