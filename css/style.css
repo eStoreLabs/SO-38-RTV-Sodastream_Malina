@@ -223,6 +223,7 @@
   text-transform: uppercase;
   font-family: HurmeGeometricSans3-Bold, sans-serif;
   font-size: 25px;
+  color: #13294b !important;
 }
 #es-rc #es-rc-content .es-one-soda__wrapper-outer {
   position: relative;
@@ -371,6 +372,7 @@
   .es-bottle__single-wrapper
   .es-bottle__h2 {
   font-size: 30px;
+  color: #fff;
 }
 #es-rc #es-rc-content .es-bottle__wrapper .es-bottle__single-third {
   position: relative;
@@ -485,6 +487,7 @@
 #es-rc #es-rc-content .es-day__wrapper .es-day__single .es-day__single-text {
   max-width: 300px;
   margin-bottom: 25px;
+  text-align: center;
 }
 #es-rc
   #es-rc-content
@@ -560,6 +563,7 @@
   margin: 25px auto;
   width: 62%;
   z-index: 1;
+  text-align: center;
 }
 #es-rc #es-rc-content .es-adventure {
   margin-top: 30px;
@@ -581,6 +585,7 @@
 #es-rc #es-rc-content .es-adventure__wrapper .es-adventure__tonic img {
   max-height: 300px;
   margin-bottom: 30px;
+  width: 36%;
 }
 #es-rc #es-rc-content .es-adventure__wrapper .es-adventure__bottom-row,
 #es-rc #es-rc-content .es-adventure__wrapper .es-adventure__top-row {
@@ -603,6 +608,7 @@
   margin-top: 20px;
   max-width: 85%;
   margin-left: 23px;
+  text-align: center;
 }
 #es-rc #es-rc-content .es-adventure__wrapper .es-adventure__bottom-row__single {
   display: flex;
@@ -616,6 +622,7 @@
   .es-adventure__bottom-row__single-text {
   margin-bottom: 20px;
   margin-top: 20px;
+  text-align: center;
 }
 #es-rc #es-rc-content .es-end {
   padding-top: 120px;
@@ -1052,10 +1059,10 @@
     width: 360px;
   }
   #es-rc #es-rc-content .es-change__single2:first-child {
-    margin: -10px -25px !important;
+    margin: -10px -15px !important;
   }
   #es-rc #es-rc-content .es-change__single2:nth-child(4) {
-    margin: 20px 5px !important;
+    margin: 20px 15px !important;
   }
   #es-rc #es-rc-content .es-change__leaf2 {
     display: block;
@@ -1491,10 +1498,10 @@
     font-size: 14px;
   }
   #es-rc #es-rc-content .es-change__single2:first-child {
-    margin: -10px -15px !important;
+    margin: -10px 5px !important;
   }
   #es-rc #es-rc-content .es-change__single2:nth-child(4) {
-    margin: 20px -5px !important;
+    margin: 20px 20px !important;
   }
   #es-rc #es-rc-content .es-change__wrapper .es-change__single:nth-child(4) {
     margin-left: -40px;
