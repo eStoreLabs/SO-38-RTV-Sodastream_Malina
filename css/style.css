@@ -1431,7 +1431,7 @@
     font-size: 40px;
   }
   #es-rc #es-rc-content .es-day__wrapper .es-day__wrapper-blue-background {
-    height: 120%;
+    height: 130%;
   }
   #es-rc
     #es-rc-content
@@ -1472,7 +1472,7 @@
   }
   #es-rc #es-rc-content .es-day__wrapper .es-day__single .es-day__single-text {
     font-size: 16px;
-    max-width: 295px;
+    max-width: 256px;
   }
   #es-rc #es-rc-content .es-bottle__wrapper .es-bottle__single:nth-child(3) {
     margin-bottom: -75px;
